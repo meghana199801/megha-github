@@ -1,6 +1,15 @@
-this is meghana d
+public class MyClass {
+    
+public static void main(String args[]) {
+    
+  int x=10;
+      int y=25;
+      int z=x+y;
 
-this is a archana
+     
+ System.out.println("Sum of x+y = " + z);
+    }
+}
 
-welcome to meghaa
-content changed from this github
+
+
